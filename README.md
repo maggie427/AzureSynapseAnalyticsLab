@@ -1,3 +1,3 @@
 # AzureSynapseAnalyticsLab
-We're runing Azure Synapse Analytics workshop &amp; lab 
+We're runing Azure Synapse Analytics workshop lab 
 download SSMS,Azure Storage Explore, Power BI Desktop
